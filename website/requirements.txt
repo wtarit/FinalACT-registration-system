@@ -2,3 +2,4 @@ python-dotenv
 streamlit
 supabase
 pytz
+psycopg2-binary
